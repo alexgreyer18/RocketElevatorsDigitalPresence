@@ -159,7 +159,7 @@
 	.btn-primary:hover
 	.pagination>.active>a,
 	.pagination>.active>a:hover {
-		border-color: #9E9E9E;
+		border-color: rgb(0, 0, 0);
 	}
 
 	#topNav ul.dropdown-menu { /* submenu border top color */
